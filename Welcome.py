@@ -3,7 +3,6 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 import os
-import camelot
 import matplotlib.pyplot as plt
 import numpy as np
 import base64
